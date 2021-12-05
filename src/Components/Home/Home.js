@@ -46,7 +46,7 @@ const Home = () => {
 
     
     return (
-        <div className="row ">
+        <div className="row container ">
            {
               roomData.map(data=> <Room data={data}></Room>) 
               

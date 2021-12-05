@@ -1,0 +1,11 @@
+.form{
+    margin-left:100px;
+    box-shadow: 20px 20px 15px lightslategray ;
+    width: 60vw;
+    padding: 10px;
+}
+.form input{
+    margin: 10px;
+    padding: 10px;
+    
+}
